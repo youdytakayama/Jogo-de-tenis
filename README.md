@@ -155,6 +155,7 @@ while running:
     clock.tick(60)
 
 pygame.quit()
+
 Este código cria uma janela de jogo simples com duas raquetes que podem ser controladas pelos jogadores (W/S para a raquete esquerda e as setas para a raquete direita) e uma bola que se move e rebate nas bordas da tela e nas raquetes. Ele também implementa um sistema básico de pontuação.
 
 Para transformar isso em um jogo completo de tênis profissional, você pode adicionar funcionalidades como:
@@ -164,4 +165,4 @@ Implementar diferentes tipos de jogadas e efeitos na bola
 Adicionar sons e efeitos visuais
 Implementar uma interface de menu e de pausa
 Adicionar níveis de dificuldade e IA para um jogador contra o computador
-Esses elementos podem ser adicionados passo a passo, expandindo a lógica e os sprites conforme necessário. Se precisar de ajuda com algum desses componentes, posso fornecer mais exemplos detalhados.
+Esses elementos podem ser adicionados passo a passo, expandindo a lógica e os sprites conforme necessário.
